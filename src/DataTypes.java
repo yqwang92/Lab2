@@ -11,4 +11,8 @@ public class DataTypes {
         }
         return s;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
